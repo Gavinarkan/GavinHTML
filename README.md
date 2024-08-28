@@ -6,7 +6,7 @@
 <body>
 
 <h1>This is lionel GAVIN</h1>
-<p>KIMINA WOWO KIMINA WOWO.</p>
+<p>KIMINA WOWO KIMINA WOWO</p>
 
 </body>
 </html>
